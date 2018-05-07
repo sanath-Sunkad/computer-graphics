@@ -1,2 +1,2 @@
 # computer-graphics
-vtu lab programsa 6th sem
+VTU lab programs 6th sem
